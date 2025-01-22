@@ -45,16 +45,15 @@ It's recommended to use a virtual environment to manage dependencies.
    ```bash
    python -m venv venv
 
-4. ** Activate the Virtual Environment** 
-
-for Windows:
-         ```bash
-         venv\Scripts\activate
-
-
-for Mac os:
-         ```bash
-         source venv/bin/activate
+4. **Activate the Virtual Environment**  
+   - For **Windows**:
+     ```bash
+     venv\Scripts\activate
+     ```
+   - For **macOS/Linux**:
+     ```bash
+     source venv/bin/activate
+     ```
 
 
 4. **Install Dependencies** 
