@@ -6,7 +6,7 @@ This project implements **LSB Steganography** to hide and retrieve secret messag
 [Image Encoding Decoding APP](https://image-encoding-decoding.streamlit.app/)
 
 
-## Web Version
+## Notebook Web Version
 [Image Base Steganography Web Version](https://nbsanity.com/static/86dc0fe4407fba311e4e26060979233b/Image_base_stegnography.html)
 ## Features
 
