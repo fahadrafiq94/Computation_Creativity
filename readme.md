@@ -57,7 +57,7 @@ for Mac os:
          source venv/bin/activate
 
 
-4. ** Install Dependencies** 
+4. **Install Dependencies** 
 Install the required packages from requirements.txt by running the following command:
       ```bash
       pip install -r requirement.txt
