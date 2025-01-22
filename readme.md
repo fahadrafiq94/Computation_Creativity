@@ -40,12 +40,12 @@ Follow these instructions to set up and run the project locally.
 1. **Clone the Repository**  
    ```bash
    git clone [https://github.com/your-username/image-steganography.git](https://github.com/fahadrafiq94/Computation_Creativity.git)
-2. **Create a Virtual Environment
+2. **Create a Virtual Environment** 
 It's recommended to use a virtual environment to manage dependencies.
    ```bash
    python -m venv venv
 
-4. ** Activate the Virtual Environment
+4. ** Activate the Virtual Environment** 
 
 for Windows:
          ```bash
@@ -57,7 +57,7 @@ for Mac os:
          source venv/bin/activate
 
 
-4. ** Install Dependencies
+4. ** Install Dependencies** 
 Install the required packages from requirements.txt by running the following command:
       ```bash
       pip install -r requirement.txt
