@@ -48,16 +48,16 @@ It's recommended to use a virtual environment to manage dependencies.
 4. ** Activate the Virtual Environment
 
 for Windows:
-      ```bash
-      venv\Scripts\activate
+         ```bash
+         venv\Scripts\activate
 
 
 for Mac os:
-      ```bash
-      source venv/bin/activate
+         ```bash
+         source venv/bin/activate
 
 
 4. ** Install Dependencies
 Install the required packages from requirements.txt by running the following command:
       ```bash
-      pip install -r requirements.txt
+      pip install -r requirement.txt
