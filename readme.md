@@ -37,7 +37,7 @@ Follow these instructions to set up and run the project locally.
 
 ### Prerequisites
 
-- Python 3.7 or higher
+- Python 3.9 or higher
 - `pip` (Python package manager)
 - A compatible image file (e.g., `.png`)
 
