@@ -45,7 +45,7 @@ Follow these instructions to set up and run the project locally.
 
 1. **Clone the Repository**  
    ```bash
-   git clone [https://github.com/fahadrafiq94/Computation_Creativity.git]
+   git clone https://github.com/fahadrafiq94/Computation_Creativity.git
 2. **Create a Virtual Environment** 
 It's recommended to use a virtual environment to manage dependencies.
    ```bash
