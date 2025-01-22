@@ -1,6 +1,10 @@
 # Image Steganography with Passcode Security
 
 This project implements **LSB Steganography** to hide and retrieve secret messages in images with an additional layer of security using a passcode hashed with **SHA-256**. The system ensures that only someone with the correct passcode can access the hidden message.
+## Web APP
+
+[Image Encoding Decoding APP](https://image-encoding-decoding.streamlit.app/)
+
 
 ## Web Version
 [Image Base Steganography Web Version](https://nbsanity.com/static/86dc0fe4407fba311e4e26060979233b/Image_base_stegnography.html)
