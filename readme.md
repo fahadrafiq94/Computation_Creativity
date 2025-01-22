@@ -2,8 +2,8 @@
 
 This project implements **LSB Steganography** to hide and retrieve secret messages in images with an additional layer of security using a passcode hashed with **SHA-256**. The system ensures that only someone with the correct passcode can access the hidden message.
 
-## Book Version
-[Image Base Steganography Book Version](https://nbsanity.com/static/a098a7c91801b2514465008c06db30b0/Image_base_stegnography.html)
+## Web Version
+[Image Base Steganography Web Version](https://nbsanity.com/static/a098a7c91801b2514465008c06db30b0/Image_base_stegnography.html)
 ## Features
 
 - Hide secret messages in images without noticeable changes.
